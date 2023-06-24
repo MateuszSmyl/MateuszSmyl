@@ -1,0 +1,26 @@
+# Hi there 👋 I'm Mateusz
+
+About me:
+
+- **My [Github](https://github.com/MateuszSmyl) profile**
+- **My [LinkedIN](https://www.linkedin.com/in/mateusz-smyl/) profile**
+- **I live in Manchester** :city_sunrise:
+- **I'm from Poland** :poland: 
+
+<img src="https://media.licdn.com/dms/image/D4E03AQH7vG58SM_Gsg/profile-displayphoto-shrink_800_800/0/1681568788060?e=1692835200&v=beta&t=YSHzFHADzbDamWEhg-8DRFna9W6GbAW0TlhWDS0j3L4" alt="This is me" width="300" height="300">
+
+
+<!--
+**MateuszSmyl/MateuszSmyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
